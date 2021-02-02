@@ -3,6 +3,8 @@
 
 Needless to say, our chatbot, moreover, our website caters to all. We don't keep any age limitation since we figure every single Indian resident ought to have the opportunity to get to our portal. We cover a pretty good number of violations which are first sorted into 6 general classes and every single 6 is additionally partitioned into 4 or 5. Each crime has a prevention, cause and solution segment to its own.
 
+![Goal](/assets/img/skills.png)
+
 ## A LIST OF FEATURES and THEIR USES:
 
 1) **CHATBOT:** The chatbot is designed to complete 2 undertakings. In the first place, in a progression of inquiries it will pose to the client about the wrongdoing it needs data of. Thus, after the appropriate responses the chatbot will show the preventions, causes and solutions. As previously mentioned, it will likewise show Toll free numbers and government site names.
